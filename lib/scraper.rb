@@ -17,7 +17,7 @@ class Scraper
   end
   
   def get_page
-    open 
+    open 'open-uri'
   end
   
 end
